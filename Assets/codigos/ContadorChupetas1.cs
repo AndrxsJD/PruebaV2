@@ -68,4 +68,13 @@ public class ContadorChupetas1 : MonoBehaviour
     {
 
     }
+    private void OnEnable()
+    {
+        Eventos.AumentarContadorChupetas1 += AumentarContador;
+    }
+
+    private void OnDisable()
+    {
+        Eventos.AumentarContadorChupetas1 -= AumentarContador;
+    }
 }
