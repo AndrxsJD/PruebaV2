@@ -14,7 +14,7 @@ TagManager:
   - Water
   - UI
   - Superficie
-  - 
+  - Backgrund
   - 
   - 
   - 
@@ -42,6 +42,57 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Parallax (-8)
+    uniqueID: 2513320041
+    locked: 0
+  - name: Parallax (-5)
+    uniqueID: 821928271
+    locked: 0
+  - name: Parallax (-4)
+    uniqueID: 3922441147
+    locked: 0
+  - name: Parallax (-3)
+    uniqueID: 864345173
+    locked: 0
+  - name: Parallax (-2)
+    uniqueID: 51628325
+    locked: 0
+  - name: Parallax (-1)
+    uniqueID: 3037491059
+    locked: 0
+  - name: Parallax (0)
+    uniqueID: 2193336509
+    locked: 0
+  - name: Parallax (1)
+    uniqueID: 3835229611
+    locked: 0
+  - name: Parallax (2)
+    uniqueID: 407985991
+    locked: 0
+  - name: Parallax (3)
+    uniqueID: 1551944541
+    locked: 0
+  - name: Parallax (4)
+    uniqueID: 2187512839
+    locked: 0
+  - name: Parallax (5)
+    uniqueID: 2751162445
+    locked: 0
+  - name: Parallax (6)
+    uniqueID: 942642773
+    locked: 0
+  - name: UI1
+    uniqueID: 3082453437
+    locked: 0
+  - name: UI2
+    uniqueID: 1950768023
+    locked: 0
+  - name: UI3
+    uniqueID: 1484155249
+    locked: 0
+  - name: Bloqueo
+    uniqueID: 272010551
     locked: 0
   m_RenderingLayers:
   - Default
