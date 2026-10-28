@@ -1,0 +1,58 @@
+{
+ "frame_size": [
+  32,
+  32
+ ],
+ "pivot": "bottom-center (16, 0) - pies en la fila 31",
+ "ppu": 16,
+ "animations": {
+  "idle": {
+   "row": 0,
+   "frames": 4,
+   "fps": 6,
+   "loop": true
+  },
+  "walk": {
+   "row": 1,
+   "frames": 6,
+   "fps": 10,
+   "loop": true
+  },
+  "run": {
+   "row": 2,
+   "frames": 6,
+   "fps": 14,
+   "loop": true
+  },
+  "jump": {
+   "row": 3,
+   "frames": 3,
+   "fps": 6,
+   "loop": false
+  },
+  "fall": {
+   "row": 4,
+   "frames": 3,
+   "fps": 8,
+   "loop": true
+  },
+  "crouch": {
+   "row": 5,
+   "frames": 4,
+   "fps": 8,
+   "loop": false
+  },
+  "swim": {
+   "row": 6,
+   "frames": 6,
+   "fps": 8,
+   "loop": true
+  },
+  "die": {
+   "row": 7,
+   "frames": 7,
+   "fps": 12,
+   "loop": false
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "ventana_azul_9slice_64x48": {
+  "border_L": 4,
+  "border_R": 4,
+  "border_T": 19,
+  "border_B": 4
+ },
+ "ventana_error_9slice_64x48": {
+  "border_L": 4,
+  "border_R": 4,
+  "border_T": 19,
+  "border_B": 4
+ },
+ "ventana_infeccion_9slice_64x48": {
+  "border_L": 4,
+  "border_R": 4,
+  "border_T": 19,
+  "border_B": 4
+ },
+ "ventana_terminal_9slice_64x48": {
+  "border_L": 4,
+  "border_R": 4,
+  "border_T": 19,
+  "border_B": 4
+ },
+ "ventana_rosa_9slice_64x48": {
+  "border_L": 4,
+  "border_R": 4,
+  "border_T": 19,
+  "border_B": 4
+ },
+ "ventana_violeta_9slice_64x48": {
+  "border_L": 4,
+  "border_R": 4,
+  "border_T": 19,
+  "border_B": 4
+ },
+ "boton_normal_normal": {
+  "border_L": 4,
+  "border_R": 4,
+  "border_T": 4,
+  "border_B": 4
+ },
+ "boton_normal_hover": {
+  "border_L": 4,
+  "border_R": 4,
+  "border_T": 4,
+  "border_B": 4
+ },
+ "boton_normal_pressed": {
+  "border_L": 4,
+  "border_R": 4,
+  "border_T": 4,
+  "border_B": 4
+ },
+ "boton_normal_disabled": {
+  "border_L": 4,
+  "border_R": 4,
+  "border_T": 4,
+  "border_B": 4
+ },
+ "boton_primario_normal": {
+  "border_L": 4,
+  "border_R": 4,
+  "border_T": 4,
+  "border_B": 4
+ },
+ "boton_primario_hover": {
+  "border_L": 4,
+  "border_R": 4,
+  "border_T": 4,
+  "border_B": 4
+ },
+ "boton_primario_pressed": {
+  "border_L": 4,
+  "border_R": 4,
+  "border_T": 4,
+  "border_B": 4
+ },
+ "boton_primario_disabled": {
+  "border_L": 4,
+  "border_R": 4,
+  "border_T": 4,
+  "border_B": 4
+ }
+}
