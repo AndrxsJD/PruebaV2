@@ -740,7 +740,7 @@ GameObject:
   - component: {fileID: 1486352478}
   - component: {fileID: 1486352477}
   m_Layer: 0
-  m_Name: pantalla_inicio_base_vacia 1_0
+  m_Name: pantalla_inicio_base
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -815,7 +815,7 @@ Transform:
   m_GameObject: {fileID: 1486352476}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2, y: -5, z: 0}
+  m_LocalPosition: {x: 2, y: 6, z: 0}
   m_LocalScale: {x: 414.16913, y: 400.12952, z: 58.498463}
   m_ConstrainProportionsScale: 0
   m_Children: []
